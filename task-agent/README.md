@@ -135,8 +135,8 @@ python graph_agent.py
 ## Autor
 
 **Jaime Bielza**
-Ingeniero de telecomunicaciones.
-Doctorando en Quantum Machine Learning @UAM bajo dirección de Elias Combarro.
-Senior AI Engenieer.
-Investigador independiente || Divulgador científico: @AIrQuantumLab.
-Contacto: jbielzapoza@gmail.com.
+Ingeniero de telecomunicaciones.  
+Doctorando en Quantum Machine Learning @UAM bajo dirección de Elias Combarro.  
+Senior AI Engenieer.  
+Investigador independiente || Divulgador científico: @AIrQuantumLab.  
+Contacto: jbielzapoza@gmail.com.  
